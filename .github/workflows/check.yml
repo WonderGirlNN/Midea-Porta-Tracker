@@ -2,8 +2,8 @@ name: Midea PortaSplit Verfügbarkeit
 
 on:
   schedule:
-    # Alle 10 Minuten (UTC). GitHub kann den Start unter Last leicht verzögern.
-    - cron: "*/10 * * * *"
+    # Alle 5 Minuten (UTC). GitHub kann den Start unter Last leicht verzögern.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}  # manueller Start für Tests
 
 # Erlaubt dem Workflow, den aktualisierten state.json zurück zu committen.
