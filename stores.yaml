@@ -41,7 +41,7 @@ mediamarkt:
   - id: "562"         # …/store/heilbronn-527  (~21 km)
     name: "Landau"
     distance_km: "0"
- - id: "580"         # …/store/heilbronn-527  (~21 km)
+   - id: "580"         # …/store/heilbronn-527  (~21 km)
     name: "Speyer"
     distance_km: "0"
 
