@@ -22,28 +22,36 @@
 mediamarkt:
   - id: "534"         # mediamarkt.de/de/store/ludwigsburg-450  (~6 km)
     name: "Karlsruhe-Bulach"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: "263"         # …/store/stuttgart-feuerbach-402  (~16 km)
     name: "Karlsruhe-Ettlinger-Tor"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: "520"          # …/store/leonberg-31  (~19 km)
     name: "Karlsruhe-Durlach"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: "505"         # …/store/heilbronn-527  (~21 km)
     name: "Bruchsal"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: 444"         # …/store/heilbronn-527  (~21 km)
     name: "Pforzheim"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: "246"         # …/store/heilbronn-527  (~21 km)
     name: "Baden-Baden"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
   - id: "562"         # …/store/heilbronn-527  (~21 km)
     name: "Landau"
-    distance_km: "0"
-   - id: "580"         # …/store/heilbronn-527  (~21 km)
+    lat: 49.0094
+    lon: 8.4042
+  - id: "580"         # …/store/heilbronn-527  (~21 km)
     name: "Speyer"
-    distance_km: "0"
+    lat: 49.0094
+    lon: 8.4042
 
 # Für Saturn-Filialen analog die ID aus saturn.de/de/store/<name>-<ID> eintragen.
 saturn: []
