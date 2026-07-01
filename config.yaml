@@ -30,6 +30,7 @@ products:
       bauhaus: "https://www.bauhaus.info/klimaanlagen/midea-klimasplitgeraet-portasplit-12000-btu/p/31934233"
       hornbach: "https://www.hornbach.de/p/klimasplitgeraet-midea-portasplit-12-000-btu-105-m-weiss/12356554/"
       amazon: "https://www.amazon.de/dp/B0D3PP64JS"
+      otto: "https://www.otto.de/p/midea-split-klimageraet-midea-porta-split-3-5-kw-fuer-raeume-bis-zu-42-m2-CS02JE0FA/"
 
 
   - name: "Midea PortaSplit 8.000 BTU"
@@ -58,6 +59,8 @@ products:
       #hornbach: "https://www.hornbach.de/p/klimasplitgeraet-midea-portasplit-12-000-btu-105-m-weiss/12356554/"
       amazon: "https://www.amazon.de/gp/product/B0GXDWTFR5"
       toom: "https://toom.de/p/split-klimaanlage-portasplit-cool-8000btuh/10515238"
+      otto: "https://www.otto.de/p/midea-klimageraet-portasplit-cool-die-3-in-1-loesung-fuer-raeume-bis-28m2-kuehlen-entfeuchten-ventilieren-app-faehig-C2076491472/"
+      
   # Weiteres Gerät? Einfach einen zweiten Eintrag nach demselben Muster anlegen:
   # - name: "Beispiel-Klimagerät"
   #   eans:
