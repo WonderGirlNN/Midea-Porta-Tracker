@@ -20,22 +20,30 @@
 # Bedarf verfeinern. Alle vier MediaMärkte liegen < 25 km (ca. 6–21 km).
 
 mediamarkt:
-  - id: "450"         # mediamarkt.de/de/store/ludwigsburg-450  (~6 km)
-    name: "Ludwigsburg"
-    lat: 48.9080
-    lon: 9.1720
-  - id: "402"         # …/store/stuttgart-feuerbach-402  (~16 km)
-    name: "Stuttgart-Feuerbach"
-    lat: 48.8090
-    lon: 9.1570
-  - id: "31"          # …/store/leonberg-31  (~19 km)
-    name: "Leonberg"
-    lat: 48.8010
-    lon: 9.0180
-  - id: "527"         # …/store/heilbronn-527  (~21 km)
-    name: "Heilbronn"
-    lat: 49.1370
-    lon: 9.2200
+  - id: "534"         # mediamarkt.de/de/store/ludwigsburg-450  (~6 km)
+    name: "Karlsruhe-Bulach"
+    distance_km: "0"
+  - id: "263"         # …/store/stuttgart-feuerbach-402  (~16 km)
+    name: "Karlsruhe-Ettlinger-Tor"
+    distance_km: "0"
+  - id: "520"          # …/store/leonberg-31  (~19 km)
+    name: "Karlsruhe-Durlach"
+    distance_km: "0"
+  - id: "505"         # …/store/heilbronn-527  (~21 km)
+    name: "Bruchsal"
+    distance_km: "0"
+  - id: 444"         # …/store/heilbronn-527  (~21 km)
+    name: "Pforzheim"
+    distance_km: "0"
+  - id: "246"         # …/store/heilbronn-527  (~21 km)
+    name: "Baden-Baden"
+    distance_km: "0"
+  - id: "562"         # …/store/heilbronn-527  (~21 km)
+    name: "Landau"
+    distance_km: "0"
+ - id: "580"         # …/store/heilbronn-527  (~21 km)
+    name: "Speyer"
+    distance_km: "0"
 
 # Für Saturn-Filialen analog die ID aus saturn.de/de/store/<name>-<ID> eintragen.
 saturn: []
